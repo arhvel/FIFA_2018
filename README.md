@@ -1,7 +1,7 @@
-Here is a data for men's FIFA 2018 World Cup.
-Also, this repository contains source code for processing the match events (per fixture and per half) into sequence for pattern mining.
+Here is the data for the men's FIFA 2018 World Cup (downloaded from StatBomb).
+Also, this repository contains source code for processing the match events (per fixture and per half) into sequences for pattern mining.
 The dictionary for encoding and decoding each match event is also included.
-A separate source code for decoding match event patterns (based on the dictionary) is also include.
+A separate source code for decoding match event patterns (based on the dictionary) is also included.
 
 If you use this repo. you can cite the following work.
 
