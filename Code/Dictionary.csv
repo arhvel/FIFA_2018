@@ -1,0 +1,33 @@
+Type,Code
+Starting XI,a
+Half Start,b
+Pass,c
+Ball Receipt*,d
+Carry,e
+Pressure,f
+Duel,g
+Shot,h
+Goal Keeper,i
+Camera On,j
+Miscontrol,k
+Ball Recovery,l
+Clearance,m
+Block,n
+Foul Committed,o
+Foul Won,p
+Camera off,q
+Dribble,r
+Dispossessed,s
+Dribbled Past,t
+Interception,u
+50/50,v
+Injury Stoppage,w
+Player Off,x
+Referee Ball-Drop,y
+Player On,z
+Half End,A
+Substitution,B
+Shield,C
+Error,D
+Offside,E
+Tactical Shift,F
